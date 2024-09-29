@@ -129,7 +129,7 @@ nav .active {
 }
 
 .top-destinations-country {
-  flex: 1 0 2 50px;
+  flex: 1 0 250px;
   box-sizing: border-box;
   border: 1px solid #ccc;
   box-shadow: 2px 2px 0px rgba(0,0,0,0.3);
